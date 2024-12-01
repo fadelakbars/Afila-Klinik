@@ -1,12 +1,13 @@
+/* Global Styling */
 body {
-    font-family: 'Arial', sans-serif;
-    background-color: #f3f4f6;
+    font-family: 'Roboto', sans-serif;
+    background-color: #f8f9fa;
+    color: #212529;
   }
   
   /* Header */
   header {
-    background-color: #4CAF50;
-    color: white;
+    background-color: #ffffff;
   }
   
   /* Card */
@@ -17,7 +18,12 @@ body {
   
   /* Footer */
   footer {
-    background-color: #4CAF50;
-    color: white;
+    background-color: #ffffff;
+    border-top: 1px solid #e9ecef;
+  }
+  
+  /* Modal Header */
+  .modal-header {
+    border-bottom: none;
   }
   
