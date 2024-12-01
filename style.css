@@ -1,0 +1,23 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f3f4f6;
+  }
+  
+  /* Header */
+  header {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  /* Card */
+  .card {
+    border-radius: 10px;
+    background-color: #ffffff;
+  }
+  
+  /* Footer */
+  footer {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
